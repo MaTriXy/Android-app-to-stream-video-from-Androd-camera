@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Documents\libstreaming\mobile\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dc64aac0ce3ce344398b193f8b00aebb3546e8b7">
+        <dex dex="D:\Documents\libstreaming\mobile\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f4ebc138a593d4e01cd7da6c91c8224651a1d390\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Documents\libstreaming\mobile\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Documents\libstreaming\mobile\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_85a9d6bceb2add51f5a26e459f143fea8e477904\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\libstreaming\app\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="52db23f3faaaece0e13a01f22b007bd09ee0a9e5">
+        <dex dex="D:\Documents\libstreaming\mobile\build\intermediates\pre-dexed\debug\classes_7b69b28c132300affec58e2db12b3d61bb983fea.jar" />
+    </item>
+
+</items>
